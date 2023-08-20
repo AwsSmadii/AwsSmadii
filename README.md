@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AwsSmadii
 - 👀 I’m interested in Machine learning and trying to merge it with Electrical engineering
-- 🌱 I’m currently learning about Deep Learning
+- 🌱 I’m currently learning about Computer Vision
 - 💞️ I’m not looking to collaborate on a thing in the meantime
 
 <!---
